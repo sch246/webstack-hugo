@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://nav.sch246.com/"
 languageCode = "zh-CN"
-title = "WebStack网址导航 Hugo主题"
+title = "sch246’s nav"
 theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
@@ -10,6 +10,6 @@ copyright = ""
   author = "iplaycode"
   description = "Webstack Hugo"
 [params.search]
-  enable = true
+  enable = false
 [params.darkmode]
   enable = false
