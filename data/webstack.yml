@@ -11,7 +11,7 @@
       logo: assets/images/logos/zzz.jpg
       url: https://blog.messyghost.net/
       description: 脏脏子的博客！
-    
+
 
 - taxonomy: 素材资源
   icon: fa-thumbs-up
@@ -29,6 +29,6 @@
         - title: Z-Library
           logo: assets/images/logos/zlib.png
           url: https://zh.z-lib.org/
-          description: 全球最大的数字图书馆
+          description: 全球最大的数字图书馆(需要梯子)
 
 
