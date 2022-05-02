@@ -8,7 +8,27 @@
       url: https://sch246.com/
       description: 我的知识库
     - title: messyghost
-      logo: https://s1.ax1x.com/2022/04/18/LdxUaT.jpg
+      logo: assets/images/logos/zzz.jpg
       url: https://blog.messyghost.net/
       description: 脏脏子的博客！
     
+
+- taxonomy: 素材资源
+  icon: fa-thumbs-up
+  list: 
+    - term: 文本
+      links:
+        - title: Sci-Hub
+          logo: assets/images/logos/Sci-Hub.gif
+          url: https://sci-hub.se/
+          description: 论文
+        - title: Sci-Hub文献搜索
+          # logo: assets/images/logos/Sci-Hub.gif
+          url: https://sci-hub.org.cn/
+          description: 增强版Sci-Hub，由Sci-Hub中文社区(discuss.sci-hub.org.cn)发起
+        - title: Z-Library
+          logo: assets/images/logos/zlib.png
+          url: https://zh.z-lib.org/
+          description: 全球最大的数字图书馆
+
+
